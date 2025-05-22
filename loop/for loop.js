@@ -15,3 +15,9 @@ for (let i=200; i<=250; i++){
     
 }
 console.log(sum);
+
+// count down 
+
+for (let i=60; i>=50; i--){
+    console.log(i);
+}
